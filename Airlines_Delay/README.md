@@ -5,6 +5,9 @@ This repository contains my **Power BI dashboard** built for the **FP20 Analytic
 ## 📌 Project Overview  
 Flight delays impact millions of passengers worldwide. This dashboard provides a **data-driven approach** to understanding the causes, patterns, and trends in flight delays, helping stakeholders make informed decisions.  
 
+![Flight Delays Dashboard](Dashboard/dashboard.png)
+
+
 ## 🔍 Key Insights & Findings  
 ✔️ **Delay Trends** – Identified peak times and routes prone to delays  
 ✔️ **Airline Performance** – Comparative analysis of delay rates across airlines  
